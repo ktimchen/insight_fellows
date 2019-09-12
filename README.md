@@ -9,10 +9,9 @@
   - [matplotlib](http://matplotlib.org/)
   - [seaborn](https://seaborn.pydata.org)
   - [wordcloud](https://github.com/amueller/word_cloud)
-  - [collections](https://docs.python.org/2/library/collections.html)
   - [json](https://docs.python.org/3/library/json.html)
 
 ## Project Motivation
-[The INSIGHT Data Science Fellows Program](https://www.insightdatascience.com) is a competitive fellowship targeted at academics from the top universities. It helps recent PhDs and Postdocs to find a prestigious job as data scientists in the industry.
+[The INSIGHT Data Science Fellows Program](https://www.insightdatascience.com) is a competitive fellowship targeted at academics from the top universities. It helps recent PhDs and Postdocs to find a prestigious job as data scientists in the industry. I was really curious about who these top quants are. 
 
-I was really curious about who these top quants are. So I scraped the data from the INSIGHT website and did some quick EDA. 
+In this project, I scraped INSIGHT Data Science Fellows, cleaned the data, performed explorative data analysis (EDA) and a hypothesis test via bootstrapping. See the source [code](https://github.com/k-bosko/insight_fellows/blob/master/INSIGHT_Data_Science_Fellowship.ipynb) or read the blog post on my website: [https://www.cross-validated.com/Insight-Data-Science-Fellows/](https://www.cross-validated.com/Insight-Data-Science-Fellows/)
