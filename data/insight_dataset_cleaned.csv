@@ -41,7 +41,7 @@ Eric Zilli;Facebook;Sandwichly: Make The Perfect Sandwich;Software Engineer;Neur
 Lisa Qian;Airbnb;Yelp Personal: Personalized Yelp recommendations;Data Science Manager;Applied Physics, Stanford, PhD;PhD;Stanford;Applied Physics
 Krystal St. Julien;Facebook;GeoJobr: Finding a job in today's economy;Operations Analyst;Biomedical Genetics, Biochemistry, and Organogenesis, Stanford, PhD;PhD;Stanford;Biomedical Genetics Biochemistry
 Daniel Silverstein;Microsoft Yammer;Dine-amic Food: Making food decisions easy using dynamic data;Data Scientist;High Energy Physics, Stanford, PhD;PhD;Stanford;High Energy Physics
-Matthew Folz;Facebook;GameChooser: Intelligent viewing recommendations for NBA games, The University of British Columbia, PhD;Data Scientist;Probability Theory and Stochastic Processes;Other;;
+Matthew Folz;Facebook;GameChooser: Intelligent viewing recommendations for NBA games, The University of British Columbia, PhD;Data Scientist;Probability Theory and Stochastic Processes,;Other;;
 Praveen Kundurthy;Microsoft Yammer;Flop Buster: The box-office prediction app;Data Scientist;Astronomy,University of Washington, PhD;PhD;University of Washington;Astronomy
 Lauren Porter;Snapdeal;Off the Beaten Path: Your personalized vacation planner;Senior Data Scientist;Theoretical and Computational Astrophysics, UC Santa Cruz, PhD;PhD;UC Santa Cruz;Theoretical and Computational Astrophysics
 Aaron Keys;Airbnb;Gener-Rec: Greed is not good (at least for recommendation engines);Data Architect;Chemical Engineering, UC Berkeley, Postdoc;Postdoc;UC Berkeley;Chemical Engineering
@@ -54,7 +54,7 @@ Wei Zhang;Walmart Labs;Startup Sniffer: Transform gut-driven to data-driven inve
 Jingjing Huang;LinkedIn;NuTube: Classifying recent YouTube videos ;Sr. Associate, Business Analytics;Mathematics/Electrical Engineering, California Institute of Technology, PhD;PhD;Caltech;Mathematics/Electrical Engineering
 Joshua Lande;Twitter;ReviewSkimmer: Find what's good or bad in a movie, before it's too late!;Senior Data Scientist;Astrophysics, Stanford, PhD;PhD;Stanford;Astrophysics
 Eli Bressert;Netflix;InspectorGit: Discover Github's awesome repositories;Data Scientist ;Astrophysics, University of Exeter, Postdoc;Postdoc;University of Exeter;Astrophysics
-Jenelle Bray;LinkedIn;PlacePickr: Helping couples decide where to live ;Manager, Security Data Science;Computational Structural Biology , Stanford University , Postdoc;Postdoc;Stanford;Computational Structural Biology
+Jenelle Bray;LinkedIn;PlacePickr: Helping couples decide where to live ;Manager, Security Data Science;Computational Structural Biology , Stanford University ,, Postdoc;Postdoc;Stanford University - ;Computational Structural Biology
 Shanshan Ding;Compass;Who's On First: Predicting the outcomes of baseball's batter-pitcher matchups;Data Scientist ;Mathematics, University of Pennsylvania, PhD;PhD;University of Pennsylvania;Mathematics
 Elizabeth Leicht;Facebook;DinnerDetente: Easing the strained relationship between healthy and delicious;Data Engineer, Analytics;Statistical Physics/Complex Systems, University of Oxford, Postdoc;Postdoc;University of Oxford;Statistical Physics/Complex Systems
 Chris Said;Twitter;DealSpotter: Find rare deals on Craigslist... the easy way;Data Scientist;Neuroscience, Princeton, PhD;PhD;Princeton;Neuroscience
@@ -764,7 +764,7 @@ Di Mo;LinkedIn;Startup Telescope: Future is now;Data Scientist;Economics, Stanfo
 Michael Bellato;Facebook;RateMate: Bias estimator for online reviews;Data Scientist;Cognitive Science, University of California, Irvine, PhD;PhD;UC Irvine;Cognitive Science
 Sabrina Aliyeva;Synopsys;SmartAID: Poverty prediction from satellite images;Data Scientist;Geophysics, Stanford University, PhD;PhD;Stanford;Geophysics
 David Cameron;Netflix;Awesome Hockey: What to skip and what to watch in NHL videos;Data Scientist;Energy Resources Engineering, Stanford, Postdoc;Postdoc;Stanford;Energy Resources Engineering
-Amruta Varudkar;Acxiom;ArtPricer: Sell it already!;Data Scientist;ArtPricer: Sell it already!;Postdoc;Stanford;Evolutionary Biology
+Amruta Varudkar;Acxiom;ArtPricer: Sell it already!;Data Scientist;Evolutionary Biology & Population Genetics, Stanford University, Postdoc	;Postdoc;Stanford;Evolutionary Biology
 Yvonne Lin;Social Capital;BeautyExtract: A data product to empower customized skincare recommendations;Data Scientist;Statistics, University of Waterloo, B.Math;Other;;
 Adam Jacoby;LinkedIn;Rapid Chat Made Slow: Extracting content from the chaos of Twitch chat;Data Scientist;Mathematics, Temple University, PhD;PhD;Temple University;Mathematics
 Alexey Shmelev;Bosch;TireCheck: Check your tire wear in seconds;Data Scientist;Mechanical Engineering, MIT, PhD;PhD;MIT;Mechanical Engineering
