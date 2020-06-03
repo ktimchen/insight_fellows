@@ -141,7 +141,7 @@ Ethan Geil;BitSight;Rain: Real-time radar-based precipitation forecasting;Techni
 Brandon Kelly;Goodyear;The Flavory: An ingredient recommendation factory;Big Data Engineer/Analyst;Astrophysics, UCSB, Postdoc;Postdoc;UC Santa Barbara;Astrophysics
 Alex Ruiz-Euler;Viacom;Yelper Helper: An engine for tailored Yelp Reviews;Senior Data Scientist, Audience Science;Political Economy, UCSD, PhD;PhD;UC San Diego;Political Economy
 Yannan Zheng;Citadel;Customized running route recommendation system;Quantitative Researcher;Systems Biology, MIT, PhD;PhD;MIT;Systems Biology
-Courtney Epstein;ZocDoc;"okmeeple: Don't leave it to chance; find your perfect board game match";Senior Data Scientist;Astronomy, The Ohio State University, PhD;PhD;The Ohio State University;Astronomy
+Courtney Epstein;ZocDoc;okmeeple: Don't leave it to chance; find your perfect board game match;Senior Data Scientist;Astronomy, The Ohio State University, PhD;PhD;The Ohio State University;Astronomy
 Kevin Mercurio;Spotify;edu Intervention: Identifying at-risk students to improve graduation rates;Senior Data Scientist;Particle Physics, Harvard, PhD;PhD;Harvard;Particle Physics
 Thomas Vincent;DigitalOcean;MillionDollar$tory: Maximizing the profitability of your movie;Data Scientist;Biostatistics, Weill Cornell Medical College, Postdoc;Postdoc;Weill Cornell;Biostatistics
 Gautham Nair;Memorial Sloan Kettering;Active GitHub: Predicting future development activity of GitHub projects;Data Scientist;Systems Biology, University of Pennsylvania, Postdoc;Postdoc;University of Pennsylvania;Systems Biology
@@ -326,7 +326,7 @@ Michael Nip;BlackRock;Buskerbot: Find awesome music near you;Data Scientist;Syst
 Melody Wolk;Vectra;TindArt: Find your art match! ;Data Scientist;Cosmology, Institute for Astronomy, Postdoc;Postdoc;Institute for Astronomy;Cosmology
 Nicholas Malecek;Yelp;Sound Measure: Gecoding insights from consumer spending;Data Scientist;Neuroscience, UC Berkeley, Postdoc;Postdoc;UC Berkeley;Neuroscience
 Jesse Clark;Stitch Fix;#Holla-A-Hashtag: Holla Away! Search Twitter today!;Data Scientist;Physics, Stanford, Postdoc;Postdoc;Stanford;Physics
-Maria Minakova;Facebook;"YouTube Matchmaker: Recommending Youtube channels with the same ""IT"" factor, using community detection";Data Scientist;Biophysics, University of North Carolina at Chapel Hill, Postdoc;Postdoc;University of North Carolina at Chapel Hill;Biophysics
+Maria Minakova;Facebook;"YouTube Matchmaker: Recommending Youtube channels with the same IT factor, using community detection;Data Scientist;Biophysics, University of North Carolina at Chapel Hill, Postdoc;Postdoc;University of North Carolina at Chapel Hill;Biophysics
 Matt Giguere;Rhumbix;doglodge.io: Find the best place to stay with your dog;Data Scientist;Astrophysics, Yale, PhD;PhD;Yale;Astrophysics
 Lavanya Sharan;Netflix;Keyword Finder: Automatic keyword extraction- no alchemy required!;Data Scientist;Brain & Cognitive Sciences, MIT, Research Scientist;Other;;
 Laura Guglielmini;Facebook;RadiumOne: Find converters through domain clustering based on network population;Data Scientist;Fluid Mechanics, Stanford, Research Associate;Other;;
@@ -414,7 +414,7 @@ Niall Martin;Google;Default Detection: Predicting micro-loan fraud for Zidisha;D
 Noah Burbank;Salesforce;Relevance in Ads: Prediction relevance in mobile ads;Data Scientist;Decision Analysis, Stanford University, PhD;PhD;Stanford;Decision Analysis
 Pamela Clevenger;Pinterest;IndieRecommender: Find Indie games like video games you already love;Data Scientist;Cognitive Psychology, University of Illinois, Urbana-Champaign, PhD;PhD;University of Illinois;Cognitive Psychology
 Paul Joos;Swish;BeerSeer: Discover what beer you should drink next;Data Scientist;Applied Mathematics, Northwestern University, PhD;PhD;Northwestern University;Applied Mathematics
-Ruth Toner;Twitch;"FanGuard: A Smart Spoiler Filter for Tumblr, Intelligently predicting spoilers without a ""spoiler warning!”";Data Scientist;Particle Physics, Harvard University, PhD;PhD;Harvard;Particle Physics
+Ruth Toner;Twitch;FanGuard: A Smart Spoiler Filter for Tumblr, Intelligently predicting spoilers without a spoiler warning!”;Data Scientist;Particle Physics, Harvard University, PhD;PhD;Harvard;Particle Physics
 Subhan Ali;Symantec;ezhome: Smart Gardening: An affordable, weekly gardening service led by expert horticulturists;Data Scientist;Civil & Environmental Engineering, Stanford University, PhD;PhD;Stanford;Civil & Environmental Engineering
 Victor Gehman;Cainthus;HomeTRAC: Find your perfect street;Data Scientist;Theoretical Physics, Stanford University, PhD;PhD;Stanford;Theoretical Physics
 Xinlu Huang;Opendoor;TakeNote: Cliffnote for video lectures;Data Scientist;Electrical Engineering, UCLA, PhD;PhD;UC Los Angeles;Electrical Engineering
@@ -493,7 +493,7 @@ Ladan Doroud;Ancestry;Lendeviance: Fraud Detection in Lending Club Data;Genomics
 Matar Haller;Winton Group;DeepGram: Unsupervised speaker segmentation of recorded conversations;Data Scientist;Neuroscience, UC Berkeley, PhD;PhD;UC Berkeley;Neuroscience
 Mike Mastanduno;Health Catalyst;mCeption: Machine Learning on Machine Learning;Data Scientist;Radiology, Stanford University, Postdoc;Postdoc;Stanford;Radiology
 Laleh Sadeghian;Facebook;Making Universal Education a Reality: prioritize countries to increase offline access to Khan Academy courses ;Data Scientist;Astrophysics, University of Wisconsin-Madison, Postdoc;Postdoc;University of Wisconsin-Madison;Astrophysics
-Robert Wilson;Apple;"Businesses on Venmo are not your “friends”: Identify businesses posing as ""friends"" on Venmo";Data Scientist;Psychology, UC Davis, PhD;PhD;UC Davis;Psychology
+Robert Wilson;Apple;Businesses on Venmo are not your “friends”: Identify businesses posing as friends on Venmo;Data Scientist;Psychology, UC Davis, PhD;PhD;UC Davis;Psychology
 Shruti Badhwar;commerce.AI;Virtual Mirror: The future of retail;Co-founder;Physics, University of Cambridge, PhD;PhD;University of Cambridge;Physics
 Ying Han;LinkedIn;Fly Smart, Avoid Delays: Predicting flight delays leveraging weather forecasts;Sr. Data Scientist;Biostatistics, University of Southern California, PhD;PhD;University of Southern California;Biostatistics
 Yun Ding;Twitter;Ask Stack Overflow: Help refine your to-be-posted question on Stack Overflow;Data Scientist;Computational Biophysics, Louisiana State University, PhD;PhD;Louisiana State University;Computational Biophysics
@@ -507,7 +507,7 @@ Doğa Kerestecioğlu;NBC;setlistör: Know the songs before you go;Senior Manager
 Emily Halket;Insight Data Science;WiseWidgets: Matching readers to relevant financial tools;Program Director & Data Scientist;Cognitive Psychology, University of California - Davis, PhD;PhD;UC Davis;Cognitive Psychology
 Erik Sjöland;Janssen Pharmaceutical;commentizr: Optimize borrower comments to make Zidisha’s lenders lend again;Data Scientist;Trexquant Investment, Trading Strategist;Other;;
 Ethan Peck;Tamr;Legislatr: Will a bill pass and who paid for it?;Field Engineer;Atmospheric and Oceanic Sciences, Columbia University, Lecturer;Other;;
-Guilherme de Oliveira;Dataiku;"Public Comments tl;dr: Helping federal agencies summarize public comments";Data Scientist;Applied Mathematics, Rensselaer Polytechnic Institute, PhD;PhD;Rensselaer Polytechnic;Applied Mathematics
+Guilherme de Oliveira;Dataiku;Public Comments tl;dr: Helping federal agencies summarize public comments;Data Scientist;Applied Mathematics, Rensselaer Polytechnic Institute, PhD;PhD;Rensselaer Polytechnic;Applied Mathematics
 Gwendolyn Gillingham;Nielsen;Toxic Docs Relationship Miner: Extracting structure from toxic text;Data Scientist;Linguistics, University of California - San Diego, PhD;PhD;UC San Diego;Linguistics
 Ivan Teo;Capital One;ClassCorrect: Fixing classification errors;Senior Data Scientist;Physics, University of Illinois at Urbana-Champaign, PhD;PhD;University of Illinois;Physics
 Joshua Friedman;Nielsen;Meet me where? Plan less, meet there.;Lead Data Scientist;Biophysics, NYU Langone Medical Center, Postdoc;Postdoc;NYC;Biophysics
@@ -576,7 +576,7 @@ Ujwal Kharel;Activision;Know Thy Gardener;Data Scientist;Policy Analysis, Pardee
 Diego Ramallo;Albeado;Analyze This;Data Scientist;Biophysics, Stanford University, PhD;PhD;Stanford;Biophysics
 Kurt Soto;Sonos, Inc.;tweetView;Voice Data Scientist;Astronomy, ETH Zurich (Swiss Federal Institute of Technology), Postdoc;Postdoc;ETH Zurich;Astronomy
 Mahshid Najafi;Facebook;Textmote;Data Scientist;Electrical and Computer Engineering, University of Maryland, College Park, PhD Candidate;Other;University of Maryland;Electrical and Computer Engineering
-Maxwell Zheng;Facebook;"""Gold plated baby""";SMB Analyst;Electrical Engineering, UC Berkeley, PhD;PhD;UC Berkeley;Electrical Engineering
+Maxwell Zheng;Facebook;Gold plated baby;SMB Analyst;Electrical Engineering, UC Berkeley, PhD;PhD;UC Berkeley;Electrical Engineering
 Peter Weir;Yelp;DetecTrend;Data Scientist;Computational Neuroscience, Caltech, Postdoc;Postdoc;Caltech;Computational Neuroscience
 Priya Venkat;Chegg;Say What?;Data Scientist;Electrical and Computer Engineering, Texas A&M University, College Station, Texas, PhD;PhD;Texas A&M University - College Station - Texas;Electrical and Computer Engineering
 Lulu Liu;Tamr;SpeaKey;Field Engineer;Physics, University of Illinois at Urbana-Champaign, Postdoc;Postdoc;University of Illinois;Physics
